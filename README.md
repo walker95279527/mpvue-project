@@ -37,4 +37,4 @@ npm run build --report
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-https://github.com/walker95279527/mpvue-project/blob/master/images/1.PNG
+![Image text](https://github.com/walker95279527/mpvue-project/blob/master/images/1.PNG)
