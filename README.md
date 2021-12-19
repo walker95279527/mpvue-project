@@ -37,13 +37,4 @@ npm run build --report
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-
-![1](C:\Users\wenjianbin\Desktop\新建文件夹\1.PNG)
-
-![2](C:\Users\wenjianbin\Desktop\新建文件夹\2.PNG)
-
-![3](C:\Users\wenjianbin\Desktop\新建文件夹\3.PNG)
-
-![4](C:\Users\wenjianbin\Desktop\新建文件夹\4.PNG)
-
-![5](C:\Users\wenjianbin\Desktop\新建文件夹\5.PNG)
+https://github.com/walker95279527/mpvue-project/blob/master/images/1.PNG
