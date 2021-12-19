@@ -38,3 +38,8 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 
 ![Image text](https://github.com/walker95279527/mpvue-project/blob/master/images/1.PNG)
+![Image text](https://github.com/walker95279527/mpvue-project/blob/master/images/2.PNG)
+![Image text](https://github.com/walker95279527/mpvue-project/blob/master/images/3.PNG)
+![Image text](https://github.com/walker95279527/mpvue-project/blob/master/images/4.PNG)
+![Image text](https://github.com/walker95279527/mpvue-project/blob/master/images/5.PNG)
+
